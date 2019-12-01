@@ -8,3 +8,6 @@ PHP and HTML restaurant booking
 #b58e46 (contrast)
 #9c745c (contrast2)
 
+NEXT UP: Create trello board <br>
+find all users and setup userstories. <br>
+I will first just add a limited booking, no online or api calls.
