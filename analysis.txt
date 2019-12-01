@@ -1,0 +1,29 @@
+USERS:
+
+Chef
+Waiter
+Booker
+FnB leaders
+MatreD
+
+Userstories:
+chef: todo misenplace, I need to know how many guests are coming at what dates.
+chef: to be able to forecast I need to know the historical guest count of the restaurant.
+
+Waiter: Who has booked, -name, phone number etc-. so I can seat the guests correctly.
+Waiter: Allergies, special requests etc.
+Waiter: How many people, so I can prepare the tables.
+
+Booker: Limit to how many bookings/guests.
+Booker: Search by name or by date to find bookings.
+Booker: Easily see what is available and add another booking
+Booker: Find guest name and when they have been here before.
+Booker: possible to anmend, copy, delete and add bookings.
+
+FnB leaders: Statistics, booking reports, so I can prepare and be bable to forcast.
+
+MatreD: 
+
+functional:
+
+nonfunctional:
