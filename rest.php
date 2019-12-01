@@ -12,6 +12,9 @@
 
 <?PHP  
 echo 'WELCOME!' .$_POST["username"];
+  
+  
+  // todo: navbar | userstories! first analysis | prepare to document journey.
 ?>
 
 </body>
